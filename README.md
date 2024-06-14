@@ -27,8 +27,8 @@ This project is developed by using HTML, CSS and Bootstrap mainly. It is respons
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Saadat-Saman/Recipe-page-HTML-CSS-and-Bootstrap-)
+- Live Site URL: (https://saadat-saman.github.io/Recipe-page-HTML-CSS-and-Bootstrap-/)
 
 ## My process
    First I created index.html file and coded all the content. I gave bootstrap classes to all my divs so that my website can be responsive. I also used CSS properties particularly wherever I had to overrride bootstrap styling.
@@ -64,7 +64,7 @@ I would like to focus on media queries, flexbox and grid in future projects.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Saadat Saman](https://saadat-saman.github.io/Recipe-page-HTML-CSS-and-Bootstrap-/)
 - Frontend Mentor - [@Saadat-Saman](https://www.frontendmentor.io/profile/Saadat-Saman)
 
 
