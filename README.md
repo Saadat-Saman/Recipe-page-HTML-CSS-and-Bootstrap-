@@ -21,8 +21,8 @@ This project is developed by using HTML, CSS and Bootstrap mainly. It is respons
 
 ### Screenshot
 
-![Desktop-view](./screenshots/recipe-page-desktop-view.png)
-![Mobile-view](./screenshots/recipe-page-mobile-view.png)
+![Desktop-view](./recipe-page-html-css-and-bootstrap.netlify.app_.png)
+
 
 
 ### Links
